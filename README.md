@@ -1,4 +1,4 @@
-## Oiii eu sou o Henrique Leone, e estou estudando para ser programador Full Stack!
+## Oi eu sou o Henrique Leone, e estou estudando para ser programador Full Stack!
 <div align="center">
   <a href="https://github.com/H-Leone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H-Leone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
